@@ -25,6 +25,7 @@ namespace NETCoreMVC.Controllers
 
         public IActionResult Privacy()
         {
+            throw new ArgumentException("錯誤發生");
             return View();
         }
 

@@ -16,7 +16,7 @@ namespace NETFrameworkMVC.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            throw new ArgumentException("錯誤發生");
             return View();
         }
 
