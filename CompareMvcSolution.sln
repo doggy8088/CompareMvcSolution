@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETFrameworkMVC", "NETFrameworkMVC\NETFrameworkMVC.csproj", "{0652EEC4-5D74-40B7-9FCD-1D157A3AC736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETCoreMVC", "NETCoreMVC\NETCoreMVC.csproj", "{71C333E8-4894-48BB-BF23-C3F1FAE77A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0652EEC4-5D74-40B7-9FCD-1D157A3AC736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0652EEC4-5D74-40B7-9FCD-1D157A3AC736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0652EEC4-5D74-40B7-9FCD-1D157A3AC736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0652EEC4-5D74-40B7-9FCD-1D157A3AC736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C333E8-4894-48BB-BF23-C3F1FAE77A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C333E8-4894-48BB-BF23-C3F1FAE77A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C333E8-4894-48BB-BF23-C3F1FAE77A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C333E8-4894-48BB-BF23-C3F1FAE77A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1381A3-0329-4C7D-AE69-7C07501783D8}
+	EndGlobalSection
+EndGlobal
